@@ -1,0 +1,9 @@
+1.查詢服務狀態: neo4j status
+
+2.停止服務: neo4j stop
+
+3.重置密碼: neo4j-admin set-initial-password new_password
+
+4.啟動服務: neo4j start
+
+5.conf位置: <neo4j安裝目錄>/conf/neo4j.conf
